@@ -1,0 +1,81 @@
+{
+    "name": "conv_params_9_layers",
+    "epochs": 100,
+    "training_records": [
+        {
+            "training_epoch": 20,
+            "accuracy": {
+                "plane": 73.8,
+                "car": 69.6,
+                "bird": 48.3,
+                "cat": 38.2,
+                "deer": 62.4,
+                "dog": 54.6,
+                "frog": 53.4,
+                "horse": 66.3,
+                "ship": 60.8,
+                "truck": 81.3
+            }
+        },
+        {
+            "training_epoch": 40,
+            "accuracy": {
+                "plane": 68.6,
+                "car": 70.4,
+                "bird": 37.8,
+                "cat": 59.4,
+                "deer": 51.9,
+                "dog": 45.2,
+                "frog": 65.5,
+                "horse": 64.5,
+                "ship": 67.3,
+                "truck": 74.3
+            }
+        },
+        {
+            "training_epoch": 60,
+            "accuracy": {
+                "plane": 68.8,
+                "car": 75.1,
+                "bird": 47.3,
+                "cat": 50.9,
+                "deer": 69.1,
+                "dog": 36.0,
+                "frog": 55.3,
+                "horse": 59.6,
+                "ship": 69.7,
+                "truck": 75.1
+            }
+        },
+        {
+            "training_epoch": 80,
+            "accuracy": {
+                "plane": 65.7,
+                "car": 76.9,
+                "bird": 46.9,
+                "cat": 43.3,
+                "deer": 68.9,
+                "dog": 46.8,
+                "frog": 67.1,
+                "horse": 63.8,
+                "ship": 70.9,
+                "truck": 64.1
+            }
+        },
+        {
+            "training_epoch": 100,
+            "accuracy": {
+                "plane": 62.6,
+                "car": 78.5,
+                "bird": 46.1,
+                "cat": 48.3,
+                "deer": 55.0,
+                "dog": 37.1,
+                "frog": 77.6,
+                "horse": 68.1,
+                "ship": 72.9,
+                "truck": 68.0
+            }
+        }
+    ]
+}
