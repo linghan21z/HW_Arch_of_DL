@@ -4,7 +4,7 @@
 **Content of each of the Python Notebooks**
 1. Part1_Parametrized_CNN : This notebooks computes the accuracy of several CNNs focusing on its development when the number of epochs used for training is varied.
 2. Part1_AccuracyGraphs_ConstantEpochs: This notebook computes the bar graphs showed in the report. The plots showcase the variation of accuracy based on the variation of different parameters for a constant number of epochs.
-3.
+3.nnnnnnnnnnn
 4.
 5.
 
