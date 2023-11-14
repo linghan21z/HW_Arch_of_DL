@@ -13,15 +13,18 @@
 Parameterized MLP and CNN module used to test the performance on small dataset CIFAR10 and MNIST. Implemented with PyTorch.
 
 ```python
-MLP(n_hidden_layers, hidden_neurons, input_size, n_classes):
+# Multilayer perceptron model
+MLP(n_hidden_layers, hidden_neurons, input_size, n_classes)
 ```
 
 ```python
-ConvNet(n_conv, n_fc, conv_ch, filter_size, fc_size, pooling_size, input_size, input_channels, n_classes, activation_fn): #same usage as LeNet
+# Convolutional neural network model
+ConvNet(n_conv, n_fc, conv_ch, filter_size, fc_size, pooling_size, input_size, input_channels, n_classes, activation_fn) #same usage as LeNet
 ```
 
 ```python
-train(model_params, model_name, device, epochs):
+# Training function
+train(model_params, model_name, device, epochs)
 ```
 
 **MLP**
