@@ -1,0 +1,156 @@
+{
+    "name": "conv_params_sigmoid",
+    "epochs": 10,
+    "training_records": [
+        {
+            "training_epoch": 1,
+            "accuracy": {
+                "plane": 0.0,
+                "car": 100.0,
+                "bird": 0.0,
+                "cat": 0.0,
+                "deer": 0.0,
+                "dog": 0.0,
+                "frog": 0.0,
+                "horse": 0.0,
+                "ship": 0.0,
+                "truck": 0.0
+            }
+        },
+        {
+            "training_epoch": 2,
+            "accuracy": {
+                "plane": 0.0,
+                "car": 0.0,
+                "bird": 0.0,
+                "cat": 100.0,
+                "deer": 0.0,
+                "dog": 0.0,
+                "frog": 0.0,
+                "horse": 0.0,
+                "ship": 0.0,
+                "truck": 0.0
+            }
+        },
+        {
+            "training_epoch": 3,
+            "accuracy": {
+                "plane": 0.0,
+                "car": 0.0,
+                "bird": 0.0,
+                "cat": 0.0,
+                "deer": 0.0,
+                "dog": 100.0,
+                "frog": 0.0,
+                "horse": 0.0,
+                "ship": 0.0,
+                "truck": 0.0
+            }
+        },
+        {
+            "training_epoch": 4,
+            "accuracy": {
+                "plane": 0.0,
+                "car": 100.0,
+                "bird": 0.0,
+                "cat": 0.0,
+                "deer": 0.0,
+                "dog": 0.0,
+                "frog": 0.0,
+                "horse": 0.0,
+                "ship": 0.0,
+                "truck": 0.0
+            }
+        },
+        {
+            "training_epoch": 5,
+            "accuracy": {
+                "plane": 0.0,
+                "car": 0.0,
+                "bird": 100.0,
+                "cat": 0.0,
+                "deer": 0.0,
+                "dog": 0.0,
+                "frog": 0.0,
+                "horse": 0.0,
+                "ship": 0.0,
+                "truck": 0.0
+            }
+        },
+        {
+            "training_epoch": 6,
+            "accuracy": {
+                "plane": 0.0,
+                "car": 100.0,
+                "bird": 0.0,
+                "cat": 0.0,
+                "deer": 0.0,
+                "dog": 0.0,
+                "frog": 0.0,
+                "horse": 0.0,
+                "ship": 0.0,
+                "truck": 0.0
+            }
+        },
+        {
+            "training_epoch": 7,
+            "accuracy": {
+                "plane": 0.0,
+                "car": 0.0,
+                "bird": 0.0,
+                "cat": 0.0,
+                "deer": 0.0,
+                "dog": 0.0,
+                "frog": 0.0,
+                "horse": 100.0,
+                "ship": 0.0,
+                "truck": 0.0
+            }
+        },
+        {
+            "training_epoch": 8,
+            "accuracy": {
+                "plane": 0.0,
+                "car": 0.0,
+                "bird": 0.0,
+                "cat": 0.0,
+                "deer": 100.0,
+                "dog": 0.0,
+                "frog": 0.0,
+                "horse": 0.0,
+                "ship": 0.0,
+                "truck": 0.0
+            }
+        },
+        {
+            "training_epoch": 9,
+            "accuracy": {
+                "plane": 0.0,
+                "car": 9.7,
+                "bird": 0.0,
+                "cat": 0.0,
+                "deer": 97.4,
+                "dog": 0.0,
+                "frog": 0.0,
+                "horse": 0.0,
+                "ship": 0.0,
+                "truck": 0.0
+            }
+        },
+        {
+            "training_epoch": 10,
+            "accuracy": {
+                "plane": 0.0,
+                "car": 81.1,
+                "bird": 0.0,
+                "cat": 0.0,
+                "deer": 0.0,
+                "dog": 0.0,
+                "frog": 0.0,
+                "horse": 29.9,
+                "ship": 0.0,
+                "truck": 0.0
+            }
+        }
+    ]
+}

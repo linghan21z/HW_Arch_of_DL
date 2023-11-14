@@ -1,0 +1,156 @@
+{
+    "name": "conv_params_c3_20",
+    "epochs": 10,
+    "training_records": [
+        {
+            "training_epoch": 1,
+            "accuracy": {
+                "plane": 60.1,
+                "car": 52.3,
+                "bird": 10.3,
+                "cat": 24.6,
+                "deer": 55.1,
+                "dog": 29.6,
+                "frog": 76.7,
+                "horse": 64.7,
+                "ship": 40.5,
+                "truck": 58.5
+            }
+        },
+        {
+            "training_epoch": 2,
+            "accuracy": {
+                "plane": 60.6,
+                "car": 61.2,
+                "bird": 42.6,
+                "cat": 31.6,
+                "deer": 44.1,
+                "dog": 51.4,
+                "frog": 57.4,
+                "horse": 62.2,
+                "ship": 63.5,
+                "truck": 75.3
+            }
+        },
+        {
+            "training_epoch": 3,
+            "accuracy": {
+                "plane": 74.9,
+                "car": 74.7,
+                "bird": 35.1,
+                "cat": 43.6,
+                "deer": 48.2,
+                "dog": 39.7,
+                "frog": 64.9,
+                "horse": 72.6,
+                "ship": 57.2,
+                "truck": 70.5
+            }
+        },
+        {
+            "training_epoch": 4,
+            "accuracy": {
+                "plane": 62.3,
+                "car": 70.1,
+                "bird": 41.4,
+                "cat": 50.8,
+                "deer": 50.8,
+                "dog": 34.2,
+                "frog": 76.2,
+                "horse": 62.4,
+                "ship": 80.1,
+                "truck": 76.3
+            }
+        },
+        {
+            "training_epoch": 5,
+            "accuracy": {
+                "plane": 57.5,
+                "car": 80.1,
+                "bird": 51.8,
+                "cat": 33.0,
+                "deer": 55.7,
+                "dog": 49.6,
+                "frog": 75.7,
+                "horse": 68.0,
+                "ship": 74.3,
+                "truck": 71.5
+            }
+        },
+        {
+            "training_epoch": 6,
+            "accuracy": {
+                "plane": 55.3,
+                "car": 68.7,
+                "bird": 39.6,
+                "cat": 56.0,
+                "deer": 63.3,
+                "dog": 40.2,
+                "frog": 67.7,
+                "horse": 62.0,
+                "ship": 77.5,
+                "truck": 77.4
+            }
+        },
+        {
+            "training_epoch": 7,
+            "accuracy": {
+                "plane": 64.8,
+                "car": 87.4,
+                "bird": 33.0,
+                "cat": 44.4,
+                "deer": 46.3,
+                "dog": 43.7,
+                "frog": 42.2,
+                "horse": 63.0,
+                "ship": 76.0,
+                "truck": 64.7
+            }
+        },
+        {
+            "training_epoch": 8,
+            "accuracy": {
+                "plane": 69.3,
+                "car": 65.5,
+                "bird": 44.2,
+                "cat": 54.1,
+                "deer": 53.5,
+                "dog": 49.6,
+                "frog": 68.3,
+                "horse": 60.6,
+                "ship": 77.2,
+                "truck": 78.0
+            }
+        },
+        {
+            "training_epoch": 9,
+            "accuracy": {
+                "plane": 72.6,
+                "car": 73.6,
+                "bird": 56.6,
+                "cat": 41.2,
+                "deer": 60.2,
+                "dog": 38.5,
+                "frog": 66.9,
+                "horse": 72.7,
+                "ship": 62.2,
+                "truck": 68.8
+            }
+        },
+        {
+            "training_epoch": 10,
+            "accuracy": {
+                "plane": 66.9,
+                "car": 71.9,
+                "bird": 48.0,
+                "cat": 42.2,
+                "deer": 50.6,
+                "dog": 52.5,
+                "frog": 80.6,
+                "horse": 62.2,
+                "ship": 83.9,
+                "truck": 69.6
+            }
+        }
+    ]
+}
