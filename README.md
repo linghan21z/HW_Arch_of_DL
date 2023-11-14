@@ -4,9 +4,10 @@
 **Content of each of the Python Notebooks**
 1. Part1_Parametrized_CNN : This notebooks computes the accuracy of several CNNs focusing on its development when the number of epochs used for training is varied.
 2. Part1_AccuracyGraphs_ConstantEpochs: This notebook computes the bar graphs showed in the report. The plots showcase the variation of accuracy based on the variation of different parameters for a constant number of epochs.
-3.
-4.
-5.
+3. Part2_MLP1: 
+4. Part2_MLP2:
+5. Part2_LeNet-5 model: This notebook train a neural network implementing the LeNet-5 model to deal with hand-written digits recognition problem, with dataset MNIST. And record and compare the inference performance, namely, classification accuracy, run time and memory consumption.
+
 
 **Description for Part 1 code**
 
